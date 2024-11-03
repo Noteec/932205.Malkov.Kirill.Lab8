@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.table-row input {
+    width: 200px;
+}
+
+.table-row button {
+    width: 20px;
+}
